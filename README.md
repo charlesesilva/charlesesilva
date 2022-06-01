@@ -1,4 +1,4 @@
-# 0lá pessoal! Eu me chamo Charles e estou cursando TI de forma autodidata e estas são as linguagnes que estou a aprender. 👨‍💻 
+# 0lá pessoal! Eu me chamo Charles e estou cursando TI de forma autodidata e estas são as linguagens que estou a aprender. 👨‍💻 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="charles-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">

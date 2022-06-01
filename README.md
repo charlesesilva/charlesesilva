@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesesilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Apaixonado por tecnologia e conhecimento🫶. Estas são as ferramentas que uso. 👨‍💻 👇
+## Apaixonado por tecnologia e conhecimento🫶. 👨‍💻 👇
 <div style="display: inline_block"><br>
 
   <img align="center" alt="charles-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -17,16 +17,12 @@
 <img align="center" alt="charles-rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
 <img align="center" altt=charles-github height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="center" altt=charles-gitlab height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-
   <img align="right" alt="programdor- gif" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wjhu2392dkqhu95ijf2mvc01o6y4n5s18ukc9p5s&rid=giphy.gif&ct=g">
 </div>
   
-  ##
- 
-<div> 
-  
- 
+ <div>  
+   
   ![Snake animation](https://github.com/charlesesilva/charlesesilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+   
+   
+   <div>

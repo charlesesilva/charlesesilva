@@ -1,13 +1,4 @@
-# Olá pessoal! 🙃
-
-<div align="">
-  <a href="https://github.com/charlesesilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=charlesesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesesilva&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-## Estou cursando TI de forma autodidata e estas são as linguagnes que estou a aprender. 👨‍💻 
+# 0lá pessoal! Eu me chamo Charles e estou cursando TI de forma autodidata e estas são as linguagnes que estou a aprender. 👨‍💻 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="charles-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
